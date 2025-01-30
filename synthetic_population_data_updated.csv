@@ -1,0 +1,401 @@
+Name,Gender,Age,Location,Job,Salary,Designation,Education
+Ian,Female,62,Denver,Nurse,79405,Lead,PhD
+Ryan,Male,41,Dallas,Engineer,78269,Director,High School
+Hannah,Male,61,Seattle,Writer,76926,Junior,Master's
+David,Female,50,Boston,Chef,62500,Junior,Bachelor's
+Charlie,Female,56,Miami,Doctor,96134,Manager,Associate Degree
+David,Female,18,New York,Teacher,50761,Director,High School
+Emma,Male,30,Chicago,Pilot,127590,Executive,Bachelor's
+Charlie,Male,57,New York,Writer,59959,Executive,Master's
+Laura,Non-binary,29,Denver,Nurse,56885,Manager,PhD
+Laura,Male,61,New York,Designer,72571,Executive,High School
+Bob,Male,47,Seattle,Engineer,93606,Mid-level,Associate Degree
+Kevin,Male,43,Houston,Chef,70563,Director,Bachelor's
+Nina,Non-binary,32,Dallas,Engineer,102271,Mid-level,Bachelor's
+Emma,Male,60,Denver,Artist,45732,Director,High School
+Kevin,Female,47,Los Angeles,Developer,108691,Junior,PhD
+Charlie,Female,50,Los Angeles,Pilot,105363,Junior,Bachelor's
+Sophia,Female,42,Dallas,Artist,39298,Senior,Associate Degree
+Paula,Non-binary,46,Boston,Teacher,55491,Mid-level,Master's
+Kevin,Non-binary,33,Los Angeles,Nurse,50277,Junior,PhD
+Fiona,Female,51,New York,Writer,59932,Mid-level,Bachelor's
+Fiona,Female,58,Miami,Engineer,116333,Lead,Master's
+Sophia,Male,57,Miami,Developer,82706,Senior,PhD
+Emma,Male,60,New York,Pilot,113638,Senior,Associate Degree
+Charlie,Non-binary,48,Boston,Artist,74160,Junior,High School
+Mike,Male,42,Houston,Doctor,148463,Junior,Master's
+Fiona,Male,43,New York,Pilot,85726,Junior,Bachelor's
+Ian,Non-binary,56,Boston,Chef,77904,Manager,Master's
+Charlie,Male,34,Seattle,Nurse,78762,Executive,PhD
+Ian,Female,32,Miami,Doctor,171104,Manager,PhD
+Charlie,Male,31,San Francisco,Writer,75685,Senior,Associate Degree
+Mike,Non-binary,30,Boston,Teacher,57235,Lead,Master's
+Laura,Male,62,San Francisco,Teacher,75183,Mid-level,Master's
+Bob,Non-binary,56,Boston,Teacher,65038,Mid-level,PhD
+Quinn,Female,20,Seattle,Artist,60932,Lead,Master's
+George,Non-binary,27,Seattle,Nurse,78104,Manager,Associate Degree
+Julia,Female,59,Dallas,Nurse,51721,Lead,PhD
+Laura,Male,37,Denver,Writer,78161,Senior,Associate Degree
+Tom,Non-binary,27,Miami,Artist,32720,Manager,PhD
+George,Male,29,Denver,Chef,48704,Mid-level,Master's
+Emma,Male,45,Los Angeles,Nurse,55194,Manager,Bachelor's
+Quinn,Female,30,Denver,Teacher,75404,Manager,High School
+Kevin,Non-binary,64,Miami,Designer,94798,Junior,PhD
+David,Non-binary,60,Los Angeles,Designer,57995,Senior,High School
+Ryan,Male,55,New York,Artist,66612,Lead,Associate Degree
+Hannah,Female,18,Chicago,Teacher,54700,Lead,PhD
+Fiona,Non-binary,62,Houston,Artist,63584,Director,Bachelor's
+Paula,Male,54,New York,Teacher,44991,Executive,Master's
+Emma,Non-binary,45,Los Angeles,Doctor,150539,Junior,Associate Degree
+Sophia,Female,22,Miami,Engineer,70836,Lead,Bachelor's
+Laura,Male,21,Houston,Nurse,75328,Manager,PhD
+Bob,Male,21,Boston,Developer,92241,Executive,High School
+Sophia,Non-binary,41,Seattle,Artist,49222,Executive,Master's
+Tom,Male,40,Miami,Artist,77734,Mid-level,PhD
+Sophia,Male,63,Seattle,Nurse,54364,Junior,High School
+Ryan,Non-binary,19,Houston,Engineer,117306,Executive,PhD
+Quinn,Female,45,Los Angeles,Chef,50392,Senior,PhD
+Kevin,Female,51,Los Angeles,Pilot,98766,Manager,Associate Degree
+Nina,Non-binary,24,Seattle,Engineer,91021,Manager,High School
+Sophia,Female,38,San Francisco,Doctor,141333,Executive,High School
+Kevin,Female,35,San Francisco,Pilot,90081,Junior,Associate Degree
+Ian,Female,39,Houston,Chef,53198,Mid-level,High School
+Emma,Female,26,Houston,Doctor,139024,Director,PhD
+Tom,Female,50,Houston,Nurse,89875,Lead,High School
+Emma,Male,25,Seattle,Doctor,163015,Mid-level,Master's
+George,Male,25,Los Angeles,Writer,62201,Junior,Bachelor's
+Kevin,Non-binary,34,Houston,Nurse,71273,Lead,Bachelor's
+Laura,Male,47,Los Angeles,Writer,40972,Junior,High School
+Kevin,Female,42,Seattle,Nurse,51583,Lead,Master's
+Tom,Male,31,Dallas,Writer,56862,Manager,Bachelor's
+Alice,Male,51,Dallas,Nurse,64507,Mid-level,Master's
+Sophia,Male,25,Boston,Writer,68052,Executive,Associate Degree
+Laura,Male,58,Miami,Teacher,65390,Senior,Bachelor's
+Emma,Female,61,Seattle,Chef,37799,Lead,Master's
+Ian,Non-binary,56,New York,Developer,112780,Director,Bachelor's
+Charlie,Female,20,Denver,Pilot,135278,Manager,Bachelor's
+Nina,Female,39,Denver,Doctor,155506,Senior,PhD
+Tom,Female,49,Dallas,Engineer,77760,Director,Associate Degree
+Ryan,Non-binary,34,San Francisco,Writer,65208,Junior,PhD
+Emma,Non-binary,28,Boston,Nurse,53621,Manager,High School
+Paula,Female,33,Seattle,Engineer,100784,Director,High School
+Oliver,Male,37,Houston,Writer,80488,Junior,High School
+Charlie,Non-binary,28,Denver,Engineer,73459,Lead,Master's
+George,Non-binary,37,New York,Engineer,114171,Junior,Master's
+Emma,Non-binary,37,Denver,Artist,56970,Executive,Master's
+Nina,Male,54,Miami,Teacher,54477,Executive,PhD
+Tom,Male,60,Seattle,Teacher,71728,Junior,Associate Degree
+George,Non-binary,50,Denver,Developer,73506,Lead,Master's
+Alice,Male,34,Chicago,Engineer,114910,Manager,Master's
+Mike,Female,24,Miami,Artist,60812,Executive,Bachelor's
+George,Male,52,Boston,Writer,68591,Junior,PhD
+Emma,Non-binary,38,Miami,Developer,94836,Junior,Master's
+Ryan,Female,40,New York,Engineer,92487,Senior,Bachelor's
+Emma,Male,33,Houston,Engineer,88353,Senior,Bachelor's
+Ryan,Male,40,Boston,Engineer,98356,Mid-level,Master's
+Sophia,Female,40,New York,Artist,52023,Lead,PhD
+Quinn,Female,35,Los Angeles,Doctor,176197,Senior,Master's
+Quinn,Non-binary,44,Chicago,Writer,59684,Lead,Associate Degree
+Ian,Female,62,Los Angeles,Chef,37708,Senior,Associate Degree
+Emma,Non-binary,34,Dallas,Chef,76416,Senior,PhD
+Julia,Male,35,Dallas,Engineer,106343,Manager,High School
+Ryan,Non-binary,45,Dallas,Nurse,83164,Director,Bachelor's
+Kevin,Non-binary,48,Houston,Developer,82141,Senior,Master's
+Ryan,Male,32,New York,Developer,71915,Manager,High School
+Ian,Male,23,Los Angeles,Chef,35776,Director,PhD
+Fiona,Female,52,Chicago,Designer,90948,Junior,PhD
+Kevin,Male,22,Chicago,Teacher,55993,Executive,Bachelor's
+Emma,Non-binary,56,New York,Teacher,71864,Senior,PhD
+Nina,Male,41,San Francisco,Nurse,55211,Director,PhD
+Laura,Female,25,Los Angeles,Pilot,93395,Lead,Master's
+Julia,Male,48,Chicago,Writer,61824,Lead,High School
+Ryan,Non-binary,49,San Francisco,Designer,54220,Mid-level,Master's
+Quinn,Female,24,San Francisco,Pilot,142734,Director,PhD
+David,Non-binary,35,Dallas,Nurse,68703,Lead,Master's
+Hannah,Non-binary,21,New York,Designer,99788,Junior,Associate Degree
+Mike,Male,27,New York,Teacher,64798,Director,Bachelor's
+Julia,Non-binary,24,Denver,Writer,45852,Senior,High School
+Fiona,Female,50,Seattle,Pilot,112504,Mid-level,PhD
+Julia,Male,21,Dallas,Doctor,173585,Mid-level,Associate Degree
+Alice,Female,41,Houston,Nurse,57663,Executive,Master's
+Quinn,Male,34,San Francisco,Artist,32736,Junior,Associate Degree
+David,Non-binary,40,Denver,Developer,83737,Mid-level,Master's
+Ryan,Male,57,Los Angeles,Artist,44276,Executive,Bachelor's
+Ian,Male,29,Chicago,Teacher,66947,Lead,Bachelor's
+Paula,Non-binary,49,Denver,Artist,63350,Manager,High School
+Bob,Female,38,Houston,Pilot,84127,Manager,PhD
+Sophia,Non-binary,18,Chicago,Developer,86881,Director,Bachelor's
+Oliver,Female,56,Dallas,Writer,60511,Mid-level,PhD
+Ian,Male,32,Los Angeles,Designer,83381,Director,PhD
+Bob,Non-binary,64,Denver,Nurse,60704,Director,PhD
+David,Female,59,Miami,Developer,127974,Executive,Associate Degree
+Hannah,Non-binary,62,Miami,Teacher,54023,Senior,Bachelor's
+Fiona,Male,59,Boston,Pilot,120541,Manager,Associate Degree
+Bob,Male,35,Houston,Chef,52969,Executive,Master's
+Ryan,Female,42,Seattle,Teacher,40722,Manager,Associate Degree
+Nina,Non-binary,38,Seattle,Writer,84032,Lead,PhD
+George,Male,59,Dallas,Nurse,70124,Mid-level,Associate Degree
+Charlie,Non-binary,51,Dallas,Designer,71326,Mid-level,Associate Degree
+Mike,Non-binary,34,Chicago,Teacher,46569,Mid-level,Associate Degree
+Nina,Non-binary,56,Miami,Designer,71684,Executive,Associate Degree
+Paula,Male,37,San Francisco,Engineer,110813,Manager,Associate Degree
+Sophia,Non-binary,63,San Francisco,Chef,40322,Mid-level,Associate Degree
+George,Non-binary,59,Boston,Teacher,42613,Junior,Associate Degree
+George,Female,42,Chicago,Chef,69602,Director,Master's
+Charlie,Male,35,Seattle,Developer,76776,Manager,Master's
+Ryan,Non-binary,43,Houston,Developer,102150,Manager,High School
+George,Male,55,Chicago,Designer,63949,Lead,PhD
+Ian,Non-binary,41,Houston,Artist,72752,Mid-level,PhD
+Bob,Non-binary,23,Miami,Artist,52192,Senior,High School
+Kevin,Female,44,San Francisco,Writer,88134,Junior,High School
+George,Non-binary,37,Boston,Nurse,84593,Junior,Master's
+Paula,Female,58,Miami,Pilot,97520,Manager,PhD
+Ryan,Non-binary,38,Dallas,Nurse,76193,Mid-level,Associate Degree
+David,Male,21,Houston,Teacher,45142,Lead,Bachelor's
+Oliver,Male,37,Los Angeles,Writer,86458,Mid-level,High School
+Quinn,Male,33,Dallas,Writer,60786,Junior,Bachelor's
+Alice,Female,50,Denver,Pilot,140572,Manager,High School
+Quinn,Female,46,Los Angeles,Teacher,59961,Lead,Master's
+Fiona,Female,36,Miami,Engineer,92732,Manager,Master's
+Charlie,Female,27,Seattle,Chef,57472,Lead,PhD
+Sophia,Female,60,Houston,Engineer,94344,Lead,PhD
+Emma,Non-binary,49,Boston,Artist,43453,Lead,Master's
+Mike,Female,32,Los Angeles,Nurse,76958,Senior,Associate Degree
+Sophia,Male,64,Los Angeles,Doctor,118135,Director,Associate Degree
+Hannah,Female,23,Boston,Nurse,64006,Lead,Bachelor's
+Fiona,Female,32,Denver,Designer,59114,Executive,Associate Degree
+Julia,Male,62,New York,Writer,43288,Director,High School
+Fiona,Female,19,Chicago,Designer,80581,Director,High School
+Mike,Non-binary,33,Houston,Chef,74005,Manager,PhD
+Hannah,Female,46,New York,Artist,78693,Lead,Bachelor's
+Kevin,Non-binary,44,Houston,Teacher,68595,Mid-level,Master's
+George,Male,52,Miami,Chef,62786,Mid-level,Associate Degree
+Oliver,Non-binary,54,Denver,Designer,91960,Junior,Master's
+Tom,Male,58,San Francisco,Doctor,95729,Manager,High School
+George,Non-binary,22,Dallas,Designer,99579,Mid-level,PhD
+Laura,Non-binary,25,Houston,Doctor,174158,Lead,PhD
+Laura,Female,36,San Francisco,Writer,68868,Mid-level,Master's
+Alice,Female,58,Chicago,Teacher,50865,Lead,Associate Degree
+Charlie,Male,40,Boston,Pilot,110491,Manager,PhD
+Alice,Male,39,Boston,Chef,81661,Senior,High School
+Charlie,Female,63,Chicago,Nurse,68370,Mid-level,PhD
+Julia,Female,29,Chicago,Writer,56660,Junior,High School
+Charlie,Male,19,Chicago,Designer,84416,Mid-level,Associate Degree
+Julia,Female,57,Dallas,Writer,44429,Executive,High School
+Kevin,Female,62,Miami,Developer,117653,Executive,PhD
+Charlie,Female,25,Houston,Engineer,76168,Junior,PhD
+Paula,Female,31,Seattle,Teacher,68055,Lead,Master's
+Mike,Non-binary,54,Houston,Chef,44128,Manager,Associate Degree
+Quinn,Female,63,Chicago,Artist,73795,Executive,Associate Degree
+Laura,Non-binary,51,Denver,Writer,68285,Junior,Master's
+Hannah,Male,58,Chicago,Engineer,101391,Director,Master's
+Bob,Non-binary,18,Seattle,Teacher,54933,Executive,Bachelor's
+Laura,Male,46,Seattle,Doctor,113979,Junior,Bachelor's
+Sophia,Male,20,Dallas,Teacher,47279,Executive,Bachelor's
+Mike,Female,57,Houston,Designer,91071,Manager,Associate Degree
+Quinn,Male,60,Houston,Nurse,75423,Senior,Master's
+Fiona,Male,64,Los Angeles,Writer,56114,Mid-level,Associate Degree
+Paula,Non-binary,46,Miami,Pilot,116531,Junior,High School
+Alice,Female,43,Boston,Writer,60846,Junior,PhD
+Charlie,Non-binary,49,Los Angeles,Nurse,85657,Executive,High School
+Quinn,Female,33,Denver,Developer,70254,Senior,Bachelor's
+Bob,Non-binary,36,Houston,Artist,67821,Junior,PhD
+George,Female,57,Houston,Chef,51333,Director,Associate Degree
+Fiona,Non-binary,40,New York,Doctor,113554,Executive,Bachelor's
+Tom,Female,28,Miami,Writer,42879,Manager,Bachelor's
+Mike,Non-binary,60,Seattle,Engineer,96277,Director,Associate Degree
+George,Non-binary,38,Boston,Teacher,53387,Lead,Master's
+Julia,Male,41,Houston,Engineer,116016,Manager,PhD
+Emma,Male,34,San Francisco,Writer,59903,Senior,PhD
+Alice,Female,30,Chicago,Chef,55739,Director,Associate Degree
+Oliver,Non-binary,56,Los Angeles,Developer,85947,Lead,Bachelor's
+Quinn,Male,60,Miami,Developer,79511,Lead,Associate Degree
+Charlie,Female,47,New York,Nurse,59905,Lead,Master's
+Oliver,Non-binary,36,Denver,Writer,54055,Lead,Associate Degree
+Tom,Female,51,Seattle,Teacher,68535,Senior,Master's
+Alice,Male,51,Boston,Engineer,111240,Senior,PhD
+Laura,Female,45,New York,Doctor,114760,Mid-level,Bachelor's
+Bob,Male,60,Dallas,Pilot,93403,Manager,Associate Degree
+Ian,Female,57,New York,Pilot,87294,Manager,PhD
+Bob,Non-binary,56,New York,Writer,61192,Manager,High School
+Julia,Female,31,Seattle,Nurse,61832,Junior,PhD
+Alice,Female,49,Boston,Nurse,77614,Manager,PhD
+Charlie,Non-binary,56,San Francisco,Teacher,47967,Junior,Associate Degree
+Bob,Female,33,Miami,Pilot,81026,Senior,Bachelor's
+Emma,Male,46,Denver,Pilot,143771,Mid-level,PhD
+Julia,Female,56,Los Angeles,Chef,46488,Director,Associate Degree
+Charlie,Male,35,Chicago,Nurse,67057,Junior,Associate Degree
+Quinn,Non-binary,24,Los Angeles,Chef,64638,Junior,Associate Degree
+Quinn,Male,32,Boston,Nurse,75122,Executive,Master's
+David,Non-binary,26,Chicago,Doctor,172220,Mid-level,Master's
+Sophia,Male,58,Denver,Nurse,73329,Lead,Bachelor's
+Nina,Female,51,Boston,Pilot,103860,Lead,Associate Degree
+Hannah,Non-binary,19,Los Angeles,Designer,87984,Executive,Bachelor's
+Oliver,Non-binary,51,New York,Developer,70804,Senior,Bachelor's
+Quinn,Non-binary,35,Denver,Artist,54315,Manager,PhD
+Emma,Non-binary,34,Miami,Engineer,89898,Director,High School
+Mike,Non-binary,31,New York,Teacher,71422,Director,PhD
+Emma,Non-binary,57,Los Angeles,Writer,61163,Manager,Bachelor's
+Mike,Female,48,Miami,Pilot,140195,Executive,PhD
+Mike,Non-binary,55,Boston,Writer,88076,Lead,Associate Degree
+Bob,Male,29,San Francisco,Writer,69228,Senior,Bachelor's
+Quinn,Non-binary,43,Los Angeles,Writer,46231,Mid-level,PhD
+David,Male,41,Seattle,Nurse,76853,Lead,PhD
+Oliver,Male,58,New York,Pilot,141958,Senior,Bachelor's
+Bob,Non-binary,50,Miami,Artist,37829,Director,PhD
+David,Non-binary,35,Dallas,Writer,43958,Lead,Associate Degree
+Laura,Female,42,Houston,Developer,104048,Senior,High School
+Bob,Male,58,Los Angeles,Doctor,111804,Mid-level,High School
+Fiona,Female,26,Denver,Artist,34479,Mid-level,High School
+Nina,Female,41,San Francisco,Doctor,138178,Director,Master's
+Sophia,Female,23,Seattle,Developer,119426,Executive,Associate Degree
+Tom,Non-binary,57,Seattle,Engineer,82262,Director,PhD
+Kevin,Female,62,Dallas,Chef,78599,Director,PhD
+Tom,Non-binary,24,Houston,Developer,71777,Senior,High School
+Oliver,Female,61,Boston,Nurse,60947,Junior,Master's
+Fiona,Non-binary,34,New York,Teacher,55079,Executive,Master's
+Ryan,Non-binary,32,Denver,Nurse,50189,Junior,PhD
+Paula,Non-binary,20,Los Angeles,Teacher,47938,Director,PhD
+Tom,Non-binary,58,Dallas,Doctor,104965,Director,Master's
+Ryan,Non-binary,22,Seattle,Chef,41086,Mid-level,Bachelor's
+Charlie,Male,53,Dallas,Nurse,88348,Senior,High School
+David,Non-binary,34,Houston,Pilot,129037,Manager,Associate Degree
+Fiona,Female,30,San Francisco,Chef,72471,Manager,Associate Degree
+Hannah,Non-binary,43,Houston,Artist,56096,Lead,Bachelor's
+Mike,Non-binary,50,Boston,Designer,97529,Mid-level,Bachelor's
+Alice,Non-binary,46,Denver,Pilot,128480,Senior,Master's
+Julia,Male,58,Miami,Artist,43328,Senior,PhD
+Julia,Male,60,Boston,Pilot,132444,Executive,Bachelor's
+Julia,Non-binary,25,Boston,Doctor,103700,Director,Master's
+Quinn,Male,49,San Francisco,Chef,41239,Lead,Associate Degree
+Quinn,Female,39,Denver,Nurse,62190,Junior,Bachelor's
+George,Male,51,New York,Nurse,55917,Manager,Master's
+Julia,Male,18,Miami,Designer,56983,Junior,Master's
+Emma,Female,64,Los Angeles,Teacher,70860,Lead,Associate Degree
+Laura,Male,27,Los Angeles,Chef,51962,Manager,Associate Degree
+Quinn,Female,39,Chicago,Pilot,104348,Mid-level,Master's
+Mike,Female,30,Boston,Writer,53030,Mid-level,High School
+Emma,Non-binary,34,New York,Doctor,104654,Lead,Master's
+Ian,Male,36,Chicago,Chef,42262,Director,High School
+Mike,Male,57,San Francisco,Writer,55726,Director,Bachelor's
+Emma,Male,54,Chicago,Doctor,96631,Manager,Bachelor's
+David,Non-binary,40,Houston,Engineer,87694,Director,Associate Degree
+Ian,Non-binary,58,San Francisco,Pilot,145763,Lead,Bachelor's
+Bob,Male,57,New York,Developer,113822,Lead,Master's
+Sophia,Male,29,San Francisco,Developer,98028,Director,Master's
+Emma,Male,56,New York,Engineer,84728,Junior,PhD
+Mike,Non-binary,61,Los Angeles,Designer,61492,Junior,Associate Degree
+Alice,Non-binary,49,Houston,Writer,65876,Executive,High School
+David,Non-binary,21,Houston,Nurse,62530,Executive,High School
+George,Male,19,Dallas,Artist,59024,Executive,Master's
+Mike,Female,63,Seattle,Engineer,98690,Junior,High School
+George,Non-binary,27,Los Angeles,Developer,89396,Mid-level,Master's
+Ian,Non-binary,32,Miami,Nurse,59053,Senior,Master's
+Paula,Male,55,Los Angeles,Pilot,144943,Senior,High School
+Laura,Non-binary,57,Houston,Artist,42795,Lead,PhD
+Nina,Male,49,Dallas,Pilot,104005,Executive,Bachelor's
+Hannah,Non-binary,18,Dallas,Developer,119664,Director,Master's
+Oliver,Non-binary,37,New York,Nurse,81562,Senior,Bachelor's
+George,Non-binary,56,Denver,Writer,85181,Senior,Master's
+Julia,Non-binary,33,Los Angeles,Nurse,68988,Lead,Bachelor's
+Ian,Female,63,Seattle,Chef,68690,Senior,Associate Degree
+Bob,Non-binary,52,Denver,Developer,122862,Manager,Associate Degree
+Ian,Female,59,Miami,Artist,62567,Director,PhD
+Mike,Non-binary,27,San Francisco,Chef,75204,Junior,Bachelor's
+Laura,Male,58,Miami,Developer,106602,Lead,Master's
+Julia,Female,31,New York,Chef,42810,Lead,PhD
+George,Male,24,Los Angeles,Writer,82215,Executive,PhD
+Tom,Non-binary,60,New York,Doctor,160000,Mid-level,Associate Degree
+Mike,Male,29,Chicago,Teacher,69865,Senior,High School
+Ryan,Female,34,Denver,Chef,66401,Junior,Associate Degree
+Ryan,Female,22,New York,Pilot,94083,Manager,High School
+David,Female,22,San Francisco,Engineer,93909,Executive,PhD
+Emma,Non-binary,54,San Francisco,Doctor,120566,Director,Master's
+Tom,Female,34,New York,Artist,71578,Executive,PhD
+Laura,Female,58,San Francisco,Nurse,79855,Manager,PhD
+David,Non-binary,26,Chicago,Nurse,62396,Senior,Master's
+Kevin,Non-binary,42,San Francisco,Teacher,41527,Senior,Bachelor's
+Julia,Non-binary,55,San Francisco,Doctor,122606,Junior,Master's
+Ian,Female,19,New York,Teacher,42867,Mid-level,High School
+Ryan,Non-binary,25,Los Angeles,Engineer,104894,Director,Master's
+Oliver,Female,59,New York,Artist,46976,Director,Associate Degree
+Tom,Non-binary,52,Seattle,Writer,85341,Senior,Associate Degree
+Julia,Female,20,Miami,Designer,90985,Lead,Master's
+Ryan,Non-binary,18,Miami,Nurse,82036,Senior,Master's
+Sophia,Male,22,San Francisco,Doctor,105070,Executive,PhD
+Tom,Female,20,Denver,Teacher,40796,Junior,Associate Degree
+Fiona,Female,21,Seattle,Engineer,114140,Lead,Bachelor's
+Alice,Female,50,Boston,Doctor,177924,Junior,Associate Degree
+Julia,Male,23,Chicago,Developer,115929,Senior,High School
+George,Non-binary,24,Miami,Developer,112174,Executive,Bachelor's
+Mike,Male,50,San Francisco,Chef,65634,Lead,PhD
+Hannah,Female,49,Houston,Writer,87792,Junior,Bachelor's
+Nina,Non-binary,46,Chicago,Writer,57898,Executive,Bachelor's
+Paula,Non-binary,38,New York,Nurse,73021,Manager,Bachelor's
+Tom,Female,46,Miami,Designer,80522,Manager,Master's
+Tom,Non-binary,32,Denver,Engineer,98308,Director,High School
+Fiona,Non-binary,19,Houston,Artist,51060,Lead,Bachelor's
+Mike,Female,22,Miami,Engineer,73191,Mid-level,High School
+Julia,Male,48,Houston,Developer,129149,Junior,Master's
+Nina,Female,35,Los Angeles,Writer,70333,Mid-level,Associate Degree
+Mike,Non-binary,31,Boston,Nurse,67407,Lead,High School
+Alice,Female,56,Boston,Pilot,101208,Junior,Associate Degree
+Paula,Male,20,Dallas,Developer,105143,Executive,Master's
+Oliver,Female,46,Miami,Artist,39226,Mid-level,High School
+Alice,Male,33,Miami,Writer,74977,Senior,Master's
+George,Non-binary,36,Houston,Artist,58236,Manager,Associate Degree
+Nina,Non-binary,49,Seattle,Nurse,67091,Executive,Master's
+Kevin,Non-binary,43,Los Angeles,Pilot,80285,Executive,Bachelor's
+Julia,Male,34,San Francisco,Designer,60870,Executive,Master's
+Charlie,Female,25,Los Angeles,Nurse,72886,Senior,PhD
+Mike,Male,27,Miami,Nurse,60456,Manager,High School
+David,Non-binary,48,Los Angeles,Pilot,109934,Director,High School
+Bob,Non-binary,37,Chicago,Nurse,68148,Lead,PhD
+Nina,Male,28,Denver,Engineer,104654,Manager,Bachelor's
+George,Male,63,New York,Nurse,59292,Junior,Bachelor's
+Nina,Non-binary,44,Dallas,Writer,88000,Lead,Master's
+Kevin,Non-binary,29,Boston,Chef,51395,Lead,PhD
+Laura,Male,40,Boston,Chef,41383,Junior,High School
+Hannah,Non-binary,24,New York,Writer,64311,Manager,High School
+Ryan,Female,39,Miami,Writer,62025,Executive,Associate Degree
+Kevin,Non-binary,28,Dallas,Artist,38991,Senior,Master's
+Kevin,Non-binary,63,Chicago,Chef,44858,Senior,High School
+Mike,Non-binary,36,Dallas,Teacher,54943,Lead,PhD
+Kevin,Non-binary,44,Miami,Designer,67754,Junior,Master's
+Kevin,Female,20,Houston,Nurse,83495,Director,Associate Degree
+Tom,Female,24,Miami,Writer,63146,Director,Associate Degree
+David,Non-binary,32,San Francisco,Artist,54716,Junior,Bachelor's
+Fiona,Female,52,Los Angeles,Teacher,64501,Manager,Bachelor's
+Ryan,Non-binary,19,Chicago,Engineer,100871,Senior,Master's
+Laura,Male,46,Boston,Nurse,55829,Director,High School
+Julia,Male,50,Denver,Teacher,50145,Executive,PhD
+Julia,Female,49,Denver,Writer,41771,Manager,Master's
+David,Female,49,Chicago,Developer,93328,Mid-level,Bachelor's
+Laura,Male,48,San Francisco,Doctor,166641,Manager,Bachelor's
+Bob,Non-binary,57,Boston,Developer,89234,Manager,Bachelor's
+Hannah,Female,36,Los Angeles,Chef,67389,Senior,High School
+Fiona,Non-binary,44,Seattle,Teacher,52134,Manager,Bachelor's
+David,Male,49,Houston,Doctor,150558,Executive,Associate Degree
+Alice,Female,39,New York,Writer,44244,Mid-level,High School
+Ryan,Female,56,Miami,Developer,119549,Manager,Master's
+Oliver,Male,29,Dallas,Pilot,145551,Junior,High School
+Charlie,Female,38,Chicago,Engineer,77075,Lead,Master's
+David,Non-binary,61,San Francisco,Doctor,157991,Executive,Associate Degree
+Ian,Non-binary,33,Houston,Writer,47197,Mid-level,High School
+David,Female,55,Miami,Pilot,100619,Director,Associate Degree
+Kevin,Non-binary,38,Denver,Artist,51803,Lead,Master's
+Emma,Male,47,Boston,Pilot,138307,Director,Bachelor's
+Paula,Male,29,Chicago,Designer,93790,Executive,Associate Degree
+George,Non-binary,19,Dallas,Doctor,115251,Senior,Bachelor's
+Julia,Non-binary,64,Denver,Engineer,94091,Mid-level,PhD
+Alice,Female,58,Houston,Artist,59032,Junior,PhD
+Quinn,Female,57,Boston,Artist,67942,Senior,Master's
+Alice,Non-binary,36,Seattle,Doctor,155502,Mid-level,Bachelor's
+Quinn,Male,26,Chicago,Nurse,65701,Junior,PhD
+Fiona,Female,21,San Francisco,Designer,84847,Mid-level,Master's
+Kevin,Female,46,Seattle,Developer,129020,Director,High School
+Paula,Non-binary,57,Houston,Artist,62767,Director,Associate Degree
+Bob,Non-binary,36,Denver,Writer,60692,Manager,Associate Degree
+Hannah,Non-binary,52,Dallas,Teacher,60697,Manager,Master's
+Laura,Non-binary,42,San Francisco,Teacher,72942,Lead,PhD
+Ian,Male,64,Dallas,Doctor,110256,Manager,PhD
