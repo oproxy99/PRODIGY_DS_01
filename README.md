@@ -6,6 +6,6 @@ The attached file is my first task as an intern with "Prodigy InfoTech". The tas
 Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the disctribution of ages or genders in a population.
 
 
-# Description:
+# Description
 This repository contains a tableau project (PRODIGY_DS_01.twb) and the dataset used for conducting the visualisations (synthetic_population_data_updated.csv).
 
